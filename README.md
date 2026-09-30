@@ -1,3 +1,3 @@
 # Python-Assignment-2---List-Dictionary-Set-Conditional-Statements
-https://colab.research.google.com/drive/197aOmMQccSyqCJayLec-jD6jB1kXl_dl?usp=sharing
+https://drive.google.com/file/d/1StM-d4ZUtOjWk2LeknkIgavnkVGjvYkm/view?usp=sharing
 This assignment focuses on Python data structures and conditional statements. It covers creating, accessing, and modifying Lists, working with Dictionaries and their keys, values, and items, and performing Set operations such as union and intersection. It also includes an IF, ELIF, ELSE program to categorize a performance score as Above Average, Average, or Below Average. Through this assignment, I practiced basic Python concepts and learned how to work with different data structures and decision-making statements.
